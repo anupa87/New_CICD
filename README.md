@@ -1,4 +1,4 @@
 # cicd
 
 Continuous Integration Tools
-. example of github actions
+An example of github actions about how CI/CD works in github actions.
